@@ -97,8 +97,8 @@
   }
 
   .description img {
-    width: 250px;
-    height: 430px;
+    max-width: 100%;
+    height: auto;
   }
 
   .description div{
