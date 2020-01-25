@@ -96,6 +96,11 @@
     color: #363636;
   }
 
+  .description img {
+    width: 250px;
+    height: 430px;
+  }
+
   .description div{
     font-size: 35px;
     color: #636363;
