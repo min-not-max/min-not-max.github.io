@@ -1,2 +1,2 @@
-# min-not-max.github.io
-my name is min, not max
+# minovermax.github.io
+less is better than more
